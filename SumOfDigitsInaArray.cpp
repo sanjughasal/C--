@@ -21,6 +21,7 @@ int getSum(int *arr , int size){
 
 int main(){
     int arr[5] = {3,2,5 ,16 ,6};
+    
     int size = 5;
     int sum = getSum(arr,size);
 
